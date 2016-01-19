@@ -1,0 +1,16 @@
+{
+  "name": "american-legal-crutch-words",
+  "description": "crutch words of the American contract drafter",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "files": [
+    "README.md",
+    "index.json"
+  ],
+  "license": "CC0-1.0",
+  "main": "index.json",
+  "repository": "kemitchell/american-legal-crutch-words.json",
+  "scripts": {
+    "prepublish": "./build < american-legal-crutch-words > index.json"
+  }
+}
