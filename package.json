@@ -1,7 +1,7 @@
 {
   "name": "american-legal-crutch-words",
   "description": "crutch words of the American contract drafter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "files": [
     "README.md",
